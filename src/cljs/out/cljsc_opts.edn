@@ -1,0 +1,1 @@
+{:output-dir "src/cljs/out", :externs ["closure-js/externs"], :preloads [devtools.preload], :output-to "src/cljs/hello_world.js", :source-map-timestamp true, :asset-path "cljs/out", :output-wrapper false, :libs ["closure-js/libs"], :main hello-world.core}

@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
-import cljs from './out/main'
+import cljs from './cljs/hello_world'
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
