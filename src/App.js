@@ -1,5 +1,5 @@
 import React from 'react';
-import AReactComponent from './AReactComponent';
+import AReactComponent from './react/AReactComponent';
 
 function App() {
   return (<AReactComponent />);

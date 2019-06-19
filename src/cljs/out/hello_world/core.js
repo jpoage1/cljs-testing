@@ -6,4 +6,4 @@ return "<p>Hello World</p>";
 });
 goog.exportSymbol('hello_world.core.HelloWorld', hello_world.core.HelloWorld);
 
-//# sourceMappingURL=core.js.map?rel=1560927349205
+//# sourceMappingURL=core.js.map?rel=1560927967157

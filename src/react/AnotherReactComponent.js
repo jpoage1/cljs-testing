@@ -2,7 +2,7 @@ import React from 'react';
 import SomeOtherReactComponent from './SomeOtherReactComponent';
 
 function AnotherReactComponent () {
-  return <SomeOtherReactComponent />
+  return (<SomeOtherReactComponent />);
 }
 
 export default AnotherReactComponent;

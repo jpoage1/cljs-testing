@@ -229,4 +229,4 @@ return null;
 }
 });
 
-//# sourceMappingURL=formatters.js.map?rel=1560927354837
+//# sourceMappingURL=formatters.js.map?rel=1560927972860
