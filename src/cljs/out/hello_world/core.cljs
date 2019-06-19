@@ -1,3 +1,4 @@
 (ns hello-world.core)
 
-(println "Hello world!")
+(defn ^:export HelloWorld []
+  "<p>Hello World</p>")
